@@ -1,7 +1,7 @@
 # ERP
 
 ## Diagrama UML
-``````mermaid
+```bash
 @startuml
 package "ERP Core" {
   component CadastroClientes
